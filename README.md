@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m [D4niel-dev](https://vn.linkedin.com/in/ng-kh%E1%BA%AFc-dy-579000384) or you can call me Dan for short.
+I’m [**D4niel-dev**](https://vn.linkedin.com/in/ng-kh%E1%BA%AFc-dy-579000384), pleasure to meet you 🙌
 
 *I am a Python and web application developer with a strong focus on building clean, efficient, and user-friendly software. I enjoy exploring new technologies, improving my development workflow, and creating applications that solve real-world problems.*
 
