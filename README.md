@@ -2,8 +2,6 @@
 
 I’m [**D4niel-dev**](https://vn.linkedin.com/in/ng-kh%E1%BA%AFc-dy-579000384), pleasure to meet you 🙌
 
-*I'm a Python and web application developer and i'm still in school right and about to enter college but I'm still doing this as a hobby!*
-
 ## **🛠 My work often involves:**
 1. Designing intuitive user interfaces using frameworks such as CustomTkinter and TailwindCSS.
 2. Building backend systems in Python.
