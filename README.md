@@ -11,4 +11,4 @@ I’m [**D4niel-dev**](https://vn.linkedin.com/in/ng-kh%E1%BA%AFc-dy-579000384),
 4. Experimenting with full-stack development using HTML, CSS, JS, and Python backends.
 
 ## **💭 What i usually thinks :**
-*I value clean code, thoughtful architecture, and continuous improvement. So if you’re interested in connecting or learning more about my work, feel free to reach out via* [LinkedIn here.](https://vn.linkedin.com/in/ng-kh%E1%BA%AFc-dy-579000384)
+*I value clean code, thoughtful architecture, and continuous improvement. So if you’re interested in connecting or learning more about my work, feel free to reach out via* [LinkedIn](https://vn.linkedin.com/in/ng-kh%E1%BA%AFc-dy-579000384), [Facebook](https://www.facebook.com/share/1DGRckrzR7/), [Zalo](https://zaloapp.com/qr/p/1aldz17e0251w) *or* [Discord](https://discord.gg/dXmEBa3x)
