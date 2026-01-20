@@ -12,4 +12,4 @@ I’m [**D4niel-dev**](https://vn.linkedin.com/in/ng-kh%E1%BA%AFc-dy-579000384),
 *I value clean code, thoughtful architecture, continuous improvement, I also value teamwork and the results of things.*
 
 ## **📞 Contacting:**
-*If you’re interested in connecting or learning more about my work, feel free to reach out via* [LinkedIn](https://vn.linkedin.com/in/ng-kh%E1%BA%AFc-dy-579000384), [Facebook](https://www.facebook.com/share/1DGRckrzR7/), [Zalo](https://zaloapp.com/qr/p/1aldz17e0251w) or [Discord](https://discord.gg/dXmEBa3x).
+*If you’re interested in connecting or learning more about my work, feel free to reach out via* [LinkedIn](https://vn.linkedin.com/in/ng-kh%E1%BA%AFc-dy-579000384), [Facebook](https://www.facebook.com/share/1DGRckrzR7/), [Zalo](https://zaloapp.com/qr/p/1aldz17e0251w) or [Discord](https://discord.gg/mSR6rhQ8).
