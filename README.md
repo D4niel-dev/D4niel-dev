@@ -41,7 +41,7 @@ I’m a developer passionate about building intuitive user interfaces and robust
 <a href="https://vn.linkedin.com/in/ng-kh%E1%BA%AFc-dy-579000384" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.facebook.com/share/1DGRckrzR7/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 <a href="https://discord.gg/mSR6rhQ8" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://zalo.me" target="blank"><img align="center" src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo" /></a>
+<a href="https://zaloapp.com/qr/p/1aldz17e0251w" target="blank"><img align="center" src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo" /></a>
 </p>
 
 ---
