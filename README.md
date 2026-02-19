@@ -26,15 +26,6 @@ I’m a developer passionate about building intuitive user interfaces and robust
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=D4niel-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="D4niel-dev's Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4niel-dev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" height="150" />
-</p>
-
----
-
 ### 📫 Connect with me
 
 <p align="left">
