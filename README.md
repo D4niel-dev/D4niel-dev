@@ -41,8 +41,8 @@ I build across the stack — from native desktop apps and cross-platform mobile 
 ### 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=D4niel-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4niel-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img height="165" src="https://github-stats-extended-frontend-three-kappa.vercel.app/api?username=D4niel-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-stats-extended-frontend-three-kappa.vercel.app/api/top-langs/?username=D4niel-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
