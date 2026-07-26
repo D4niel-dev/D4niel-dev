@@ -8,6 +8,35 @@ I build across the stack — from native desktop apps and cross-platform mobile 
 
 ---
 
+### 🚀 Currently Building
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="./assets/dizel-icon.png" width="100" alt="Dizel icon"/>
+
+### [Dizel](https://github.com/D4niel-dev/Dizel)
+
+A from-scratch GPT-style causal language model (~205M params, PyTorch) trainable on a single consumer GPU. Ships with a full PySide6 desktop chat app — BYOK routing across Anthropic/OpenAI/Gemini/xAI, local Whisper voice input, and a Textual terminal UI.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/> <img src="https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white" alt="PySide6"/>
+
+</td>
+<td align="center" width="50%">
+<img src="./assets/orbit-icon.webp" width="100" alt="Orbit icon"/>
+
+### [Orbit](https://github.com/D4niel-dev/Orbit-beta)
+
+A local-first, peer-to-peer LAN messenger for desktop and Android — no central server required. Raw TCP/UDP discovery, E2EE direct messages, group chat, and P2P voice/video calls.
+
+<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron"/> <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white" alt="Capacitor"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+
+</td>
+</tr>
+</table>
+
+---
+
 ### 🛠️ Tech Stack
 
 **Languages**
