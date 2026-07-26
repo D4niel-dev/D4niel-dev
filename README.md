@@ -14,7 +14,7 @@ I build across the stack — from native desktop apps and cross-platform mobile 
 <tr>
 <td width="50%">
 
-<img src="./assets/dizel-icon.png" width="28" valign="middle"/> **[Dizel](https://github.com/D4niel-dev/Dizel)**
+<img src="./assets/dizel-icon.png" width="56" valign="middle"/> **[Dizel](https://github.com/D4niel-dev/Dizel)**
 
 A from-scratch GPT-style language model (~205M params, PyTorch) that trains on a single consumer GPU — paired with a full PySide6 desktop chat app, BYOK routing, and voice input.
 
@@ -23,7 +23,7 @@ A from-scratch GPT-style language model (~205M params, PyTorch) that trains on a
 </td>
 <td width="50%">
 
-<img src="./assets/orbit-icon.webp" width="28" valign="middle"/> **[Orbit](https://github.com/D4niel-dev/Orbit-beta)**
+<img src="./assets/orbit-icon.webp" width="56" valign="middle"/> **[Orbit](https://github.com/D4niel-dev/Orbit-beta)**
 
 A local-first, peer-to-peer LAN messenger for desktop and Android — no central server required. Raw TCP/UDP discovery, E2EE direct messages, group chat, and P2P voice/video calls.
 
