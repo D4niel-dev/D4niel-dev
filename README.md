@@ -16,7 +16,7 @@ I build across the stack — from native desktop apps and cross-platform mobile 
 
 <img src="./assets/dizel-icon.png" width="56" valign="middle"/> **[Dizel](https://github.com/D4niel-dev/Dizel)**
 
-A from-scratch GPT-style language model (~205M params, PyTorch) that trains on a single consumer GPU — paired with a full PySide6 desktop chat app, BYOK routing, and voice input.
+A from-scratch GPT-style language model (~454.78M params, PyTorch) that trains on a single consumer GPU — paired with a full PySide6 desktop chat app, BYOK routing, and voice input.
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/> <img src="https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white" alt="PySide6"/>
 
